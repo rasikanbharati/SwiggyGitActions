@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+      <key>provisioningProfiles</key>
+      <dict>
+        <key>com.3embed.demoApp</key>
+        <string>37a5051e-49a4-49ad-8c0a-7afca1be4587</string>
+      </dict>
+      <key>method</key>
+	  <string>app-store</string>
+      <key>signingCertificate</key>
+      <string>Apple Distribution: 3Embed Software Technologies private limited (5A693V6KR5)</string>
+      <key>signingStyle</key>
+      <string>manual</string>
+      <key>teamID</key>
+      <string>5A693V6KR5</string>
+      <key>uploadBitcode</key>
+      <true/>
+      <key>uploadSymbols</key>
+      <true/>
+  </dict>
+</plist>
