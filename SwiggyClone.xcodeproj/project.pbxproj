@@ -136,6 +136,7 @@
 		44F748D327A9334F00329DD0 /* ProximaNovaBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaBold.otf; sourceTree = "<group>"; };
 		44F748D427A9334F00329DD0 /* ProximaNovaAltRegular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaAltRegular.otf; sourceTree = "<group>"; };
 		44F748D527A9334F00329DD0 /* ProximaNovaCondensedBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ProximaNovaCondensedBold.otf; sourceTree = "<group>"; };
+		C2363F4D283FA6BC003E7131 /* swiggy.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = swiggy.mobileprovision; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +181,7 @@
 		44198CB827A519E500EC9883 /* AppBase */ = {
 			isa = PBXGroup;
 			children = (
+				C2363F4D283FA6BC003E7131 /* swiggy.mobileprovision */,
 				44198CA427A5108700EC9883 /* AppDelegate.swift */,
 				44198CA627A5108700EC9883 /* SceneDelegate.swift */,
 				44198CAF27A5108900EC9883 /* LaunchScreen.storyboard */,
