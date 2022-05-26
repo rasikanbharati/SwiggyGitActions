@@ -5,7 +5,7 @@
       <key>provisioningProfiles</key>
       <dict>
         <key>com.3embed.demoApp</key>
-        <string>37a5051e-49a4-49ad-8c0a-7afca1be4587</string>
+        <string>37e5051e-49a4-49ad-8c0a-7afca1be4587</string>
       </dict>
       <key>method</key>
 	  <string>app-store</string>
